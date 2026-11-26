@@ -1,0 +1,1 @@
+import{t as e}from"./main-BSXSHm72.js";import{t}from"./PrinciplesAndQuotes-DWlpnAS4.js";e(t);

@@ -1,0 +1,1 @@
+import{t as e}from"./main-BSXSHm72.js";import{t}from"./RecipeRoute-C20wpUWk.js";e(t);
